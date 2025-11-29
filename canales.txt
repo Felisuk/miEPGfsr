@@ -1,7 +1,6 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-Eleven Sports 1,Eleven Sports 1 Polonia,+2
-Eleven Sports 2,Eleven Sports 2 Polonia,+2
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
-Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
+1+1 International,ES| 1+1 International ᴿᴬᵂ   ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
+24 Horas,24 Horas FHD ᴿᴬᵂ  ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png
+Al Jazeera English HD,ES| Al Jazeera English ᴿᴬᵂ   ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20Jazeera%20English.png
+AXN HD,AXN FHDᴿᴬᵂ   ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
+AXN Movies HD,ES| AXN Movies FHD ᴿᴬᵂ   ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
+La 7 Murcia,ES| La 7 TV REGIÓN Murcia ᴿᴬᵂ   ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
