@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/11/2025 10:54" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/11/2025 11:16" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES| 1+1 International ᴿᴬᵂ">
     <display-name>ES| 1+1 International ᴿᴬᵂ</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
@@ -1237,54 +1237,6 @@
   <programme start="20251205214000 +0000" stop="20251206014000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
     <title>Unated News Marathon</title>
     <desc>Nachrichten</desc>
-  </programme>
-  <programme start="20251127003000 +0000" stop="20251127021500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">Cały kraj mówi</title>
-  </programme>
-  <programme start="20251127021500 +0000" stop="20251127033500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">Ślepe małżeństwo</title>
-  </programme>
-  <programme start="20251127033500 +0000" stop="20251127043000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">Życiorysy znanych osób</title>
-  </programme>
-  <programme start="20251127043000 +0000" stop="20251127083000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">Śniadanie w grupie 1+1. Program informacyjno-rozrywkowy</title>
-  </programme>
-  <programme start="20251127083000 +0000" stop="20251127103000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">Ślepe małżeństwo</title>
-  </programme>
-  <programme start="20251127103000 +0000" stop="20251127131500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/s Svati. Historia absolutnie polska, 7-9 w</title>
-  </programme>
-  <programme start="20251127131500 +0000" stop="20251127160000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/s Metoda Bulla 3. 1-3 c</title>
-  </programme>
-  <programme start="20251127160000 +0000" stop="20251127170000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/c Tajemnice archiwów</title>
-  </programme>
-  <programme start="20251127170000 +0000" stop="20251127180000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/c Tajemnice archiwów</title>
-  </programme>
-  <programme start="20251127180000 +0000" stop="20251127190000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/c Tajemnice archiwów</title>
-  </programme>
-  <programme start="20251127190000 +0000" stop="20251127200000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/c Tajemnice archiwów</title>
-  </programme>
-  <programme start="20251127200000 +0000" stop="20251127205500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/s Dobry lekarz 3, 3 c</title>
-  </programme>
-  <programme start="20251127205500 +0000" stop="20251127215000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/s Dobry lekarz 3, 4 c</title>
-  </programme>
-  <programme start="20251127215000 +0000" stop="20251127224500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/s Dobry lekarz 3,5 c</title>
-  </programme>
-  <programme start="20251127224500 +0000" stop="20251127234000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">t/s Dobry lekarz 3, 6 c</title>
-  </programme>
-  <programme start="20251127234000 +0000" stop="20251128000000 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
-    <title lang="pl">Świat na wylot</title>
   </programme>
   <programme start="20251128003000 +0000" stop="20251128021500 +0000" channel="ES| 1+1 International ᴿᴬᵂ">
     <title lang="pl">Cały kraj mówi</title>
