@@ -1,4 +1,4 @@
-name: Comprimir EPS XML
+name: Comprimir EPG XML
 
 on:
   workflow_dispatch:
@@ -13,12 +13,12 @@ jobs:
       - name: Verificar versión de mEPS.xml
         id: obtener_version
         run: |
-          VERSION=$(cat mEPS.xml | sed 's/comprobante mEPS.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9.]//g')
-          echo "La versión de mEPS.xml es: $VERSION"
+          VERSION=$(cat mEPG.xml | sed 's/comprobante mEPG.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9.]//g')
+          echo "La versión de mEPG.xml es: $VERSION"
           echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Comprimir archivos
         run: |
           mkdir -p comprimido
-          zip -r comprimido/mEPS-${{ steps.obtener_version.outputs.VERSION }}.zip mEPS.xml git
+          zip -r comprimido/mEPS-${{ steps.obtener_version.outputs.VERSION }}.zip mEPG.xml git
 
