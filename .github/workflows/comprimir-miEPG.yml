@@ -1,0 +1,24 @@
+name: Comprimir miEPG XML
+
+on:
+  workflow_dispatch:
+
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Verificar versión de miEPG.xml
+        id: obtener_version
+        run: |
+          VERSION=$(cat mEPG.xml | sed 's/comprobante miEPG.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9.]//g')
+          echo "La versión de miEPG.xml es: $VERSION"
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Comprimir archivos
+        run: |
+          mkdir -p comprimido
+          zip -r comprimido/miEPG-${{ steps.obtener_version.outputs.VERSION }}.zip miEPG.xml git
+
