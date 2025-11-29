@@ -1,6 +1,0 @@
-# Archivos temporales EPG
-EPG_temp*
-canales_epg*.txt
-*.gz
-*.xml.gz
-*.log
