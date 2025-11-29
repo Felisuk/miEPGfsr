@@ -13,11 +13,21 @@ jobs:
       - name: Verificar versión de miEPG.xml
         id: obtener_version
         run: |
-         VERSION=$(cat miEPG.xml | sed 's/comprobante miEPG.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9]//g')
-         VERSION=$(echo "$VERSION" | tr -d '\n' | sed 's/\.$//')   # limpia saltos de línea y punto final
-         echo "La versión de miEPG.xml es: $VERSION"
-         echo "VERSION=$VERSION" >> "$GITHUB_OUTPUT"
+          if [ ! -f miEPG.xml ]; then
+            echo "ERROR: El archivo miEPG.xml no existe"
+            exit 1
+          fi
 
+          VERSION=$(cat miEPG.xml | sed 's/comprobante miEPG.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9]//g')
+          VERSION=$(echo "$VERSION" | tr -d '\n' | sed 's/\.$//')   # limpia saltos de línea y punto final
+
+          if [ -z "$VERSION" ]; then
+            echo "ERROR: No se pudo extraer la versión"
+            exit 1
+          fi
+
+          echo "La versión de miEPG.xml es: $VERSION"
+          echo "VERSION=$VERSION" >> "$GITHUB_OUTPUT"
 
       - name: Comprimir archivo con gzip
         run: |
@@ -35,6 +45,7 @@ jobs:
           git add comprimido/miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz
           git commit -m "Añadido archivo comprimido miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz" || echo "Sin cambios para commitear"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/felisuk/mREPdrs.git
+
 
 
 
