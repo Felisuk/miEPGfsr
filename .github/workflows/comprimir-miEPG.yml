@@ -10,6 +10,11 @@ jobs:
       - name: Checkout del repositorio
         uses: actions/checkout@v3
 
+      - name: Instalar dependencias
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-utils gzip
+
       - name: Verificar versión de miEPG.xml
         id: obtener_version
         run: |
@@ -18,23 +23,22 @@ jobs:
             exit 1
           fi
 
-          VERSION=$(grep -oP 'versión\s*\K[0-9.]+' miEPG.xml | head -n 1)
-          VERSION=$(echo "$VERSION" | tr -d '\n' | sed 's/\.$//')
+          VERSION=$(xmllint --xpath 'string(//miEPG/@versión)' miEPG.xml)
 
           if [ -z "$VERSION" ]; then
             echo "ERROR: No se pudo extraer la versión"
             exit 1
           fi
 
+          VERSION=$(echo "$VERSION" | tr -d '\n' | sed 's/\.$//')
           echo "La versión de miEPG.xml es: $VERSION"
           echo "VERSION=$VERSION" >> "$GITHUB_OUTPUT"
 
       - name: Comprimir archivo con gzip
         run: |
+          rm -rf comprimido
           mkdir -p comprimido
-          cp miEPG.xml "miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml"
-          gzip -c "miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml" > "comprimido/miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz"
-          rm "miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml"
+          gzip -c miEPG.xml > "comprimido/miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz"
 
       - name: Commit y push del archivo comprimido
         env:
@@ -43,8 +47,9 @@ jobs:
           git config --global user.name "felisuk"
           git config --global user.email "felisuk@users.noreply.github.com"
           git add comprimido/miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz
-          git commit -m "Añadido archivo comprimido miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz" || echo "Sin cambios para commitear"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/felisuk/mREPdrs.git
+          git diff --cached --quiet || git commit -m "Añadido archivo comprimido miEPG-${{ steps.obtener_version.outputs.VERSION }}.xml.gz"
+          git push
+
 
 
 
