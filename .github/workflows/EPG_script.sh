@@ -152,3 +152,10 @@ cat EPG_temp2.xml >> miEPG.xml
 echo '</tv>' >> miEPG.xml
 
 rm -f EPG_temp*
+
+# Comprimir directamente miEPG.xml a main/miEPG.xml.gz
+gzip -c miEPG.xml > ../miEPG.xml.gz
+
+# Opcional: eliminar el XML original
+rm -f miEPG.xml
+
