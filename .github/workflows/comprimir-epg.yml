@@ -1,7 +1,7 @@
-name: Comprimir EPG XML
+name: Comprimir EPS XML
 
 on:
-  workflow_dispatch:  # Ejecutar manualmente desde Actions
+  workflow_dispatch:
 
 jobs:
   compress:
@@ -10,18 +10,15 @@ jobs:
       - name: Checkout del repositorio
         uses: actions/checkout@v3
 
-      - name: Verificar archivo miEPG.xml
+      - name: Verificar versión de mEPS.xml
+        id: obtener_version
         run: |
-          test -f miEPG.xml && echo "Encontrado miEPG.xml" || (echo "ERROR: No se encuentra miEPG.xml" && exit 1)
+          VERSION=$(cat mEPS.xml | sed 's/comprobante mEPS.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9.]//g')
+          echo "La versión de mEPS.xml es: $VERSION"
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
-      - name: Comprimir miEPG.xml
+      - name: Comprimir archivos
         run: |
-          gzip -c miEPG.xml > miEPG.xml.gz
-          ls -lh miEPG.xml.gz
-
-      - name: Subir artefacto comprimido
-        uses: actions/upload-artifact@v3
-        with:
-          name: miEPG-xml-gz
-          path: miEPG.xml.gz
+          mkdir -p comprimido
+          zip -r comprimido/mEPS-${{ steps.obtener_version.outputs.VERSION }}.zip mEPS.xml git
 
