@@ -4,4 +4,3 @@ Al Jazeera English HD,ES|Al Jazeera English RAW,https://raw.githubusercontent.co
 AXN HD,ES|AXN FHD RAW,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png
 AXN Movies HD,ES|AXN Movies FHD RAW,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
 La 7 Murcia,ES|La 7 TV Región Murcia RAW,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
-
