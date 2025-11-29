@@ -14,6 +14,7 @@ jobs:
         id: obtener_version
         run: |
           VERSION=$(cat miEPG.xml | sed 's/comprobante miEPG.xml//g' | sed 's/ *//g' | sed 's/<!--.*-->//g' | sed 's/.*versión//g' | sed 's/[^0-9.]//g')
+          VERSION=$(echo "$VERSION" | sed 's/\.$//')   # elimina el punto final si existe
           echo "La versión de miEPG.xml es: $VERSION"
           echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
 
