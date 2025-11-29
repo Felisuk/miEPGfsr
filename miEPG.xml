@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/11/2025 14:37" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/11/2025 14:43" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ">
     <display-name>ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png" />
+  </channel>
+  <channel id="MX | Canal TV Azteca">
+    <display-name>MX | Canal TV Azteca</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
   </channel>
   <programme start="20251129070000 +0100" stop="20251129080000 +0100" channel="ES | La 7 TV REGIÓN Murcia ᴿᴬᵂ">
     <title>En ruta</title>
@@ -2382,5 +2386,359 @@
     <desc>Entretenimiento,Magacín | 2025 | TP | *5.8/10
 · Recopilatorio de los mejores momentos emitidos durante la semana en ‘Murcia conecta’.
 · País: España</desc>
+  </programme>
+  <programme start="20251128003000 -0600" stop="20251128010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20251128010000 -0600" stop="20251128013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128013000 -0600" stop="20251128020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128020000 -0600" stop="20251128023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128023000 -0600" stop="20251128030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128030000 -0600" stop="20251128033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128033000 -0600" stop="20251128040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128040000 -0600" stop="20251128041500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251128041500 -0600" stop="20251128043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251128043000 -0600" stop="20251128050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251128050000 -0600" stop="20251128060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251128060000 -0600" stop="20251128070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20251128070000 -0600" stop="20251128080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251128080000 -0600" stop="20251128090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
+  </programme>
+  <programme start="20251128090000 -0600" stop="20251128110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251128110000 -0600" stop="20251128130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251128130000 -0600" stop="20251128140000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251128140000 -0600" stop="20251128150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251128150000 -0600" stop="20251128160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 Mexicanos VIP</title>
+  </programme>
+  <programme start="20251128160000 -0600" stop="20251128170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251128170000 -0600" stop="20251128190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251128190000 -0600" stop="20251128210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251128210000 -0600" stop="20251128223000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251128223000 -0600" stop="20251128231500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251128231500 -0600" stop="20251128233000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20251128233000 -0600" stop="20251129003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20251129003000 -0600" stop="20251129010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20251129010000 -0600" stop="20251129013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129013000 -0600" stop="20251129020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129020000 -0600" stop="20251129023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129023000 -0600" stop="20251129030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129030000 -0600" stop="20251129033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129033000 -0600" stop="20251129040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129040000 -0600" stop="20251129043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129043000 -0600" stop="20251129050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251129050000 -0600" stop="20251129060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251129060000 -0600" stop="20251129080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Pobre huerfanita</title>
+  </programme>
+  <programme start="20251129080000 -0600" stop="20251129090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20251129090000 -0600" stop="20251129110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20251129110000 -0600" stop="20251129130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20251129130000 -0600" stop="20251129150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Sábado al extremo</title>
+  </programme>
+  <programme start="20251129150000 -0600" stop="20251129160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">A cada quien su santo</title>
+    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.En cada episodio hay un santo y un problema diferente el cual se interpreta por actores y estos muestran la mejor forma de cómo fue que pidieron por su santo de su devoción.</desc>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
+  </programme>
+  <programme start="20251129160000 -0600" stop="20251129170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">A cada quien su santo</title>
+    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.En cada episodio hay un santo y un problema diferente el cual se interpreta por actores y estos muestran la mejor forma de cómo fue que pidieron por su santo de su devoción.</desc>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
+  </programme>
+  <programme start="20251129170000 -0600" stop="20251129180000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">A cada quien su santo</title>
+    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.En cada episodio hay un santo y un problema diferente el cual se interpreta por actores y estos muestran la mejor forma de cómo fue que pidieron por su santo de su devoción.</desc>
+    <date>2009</date>
+    <category lang="es">Serie</category>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Novela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/a_cada_quien_su_santo.png" />
+  </programme>
+  <programme start="20251129180000 -0600" stop="20251129190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa donde las televidentes pueden enviar sus historias y estas son llevadas en forma de un programa donde tratan de resolverles el problema. El programa trata sobre todo a esos casos de Silencio ya que de ahí se origina el nombre de la serie, y trata estos casos que en mayor parte no son aceptados por la sociedad.Entre los problemas que se tratan de resolver están celos, violencia familiar, suicidio, niños de la calle, embarazos no deseados, delincuencia, drogas, pornografía, entre otros.Al final de cada episodio se da un listado para que el televidente pueda pedir ayuda en caso de tener un problema similar al dramatizado por ese capítulo.</desc>
+    <credits>
+      <director>Alberto Cervantes</director>
+      <director>Carlos Guerra</director>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20251129190000 -0600" stop="20251129200000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa donde las televidentes pueden enviar sus historias y estas son llevadas en forma de un programa donde tratan de resolverles el problema. El programa trata sobre todo a esos casos de Silencio ya que de ahí se origina el nombre de la serie, y trata estos casos que en mayor parte no son aceptados por la sociedad.Entre los problemas que se tratan de resolver están celos, violencia familiar, suicidio, niños de la calle, embarazos no deseados, delincuencia, drogas, pornografía, entre otros.Al final de cada episodio se da un listado para que el televidente pueda pedir ayuda en caso de tener un problema similar al dramatizado por ese capítulo.</desc>
+    <credits>
+      <director>Alberto Cervantes</director>
+      <director>Carlos Guerra</director>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20251129200000 -0600" stop="20251129210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Lo que callamos las mujeres</title>
+    <desc lang="es">Un programa donde las televidentes pueden enviar sus historias y estas son llevadas en forma de un programa donde tratan de resolverles el problema. El programa trata sobre todo a esos casos de Silencio ya que de ahí se origina el nombre de la serie, y trata estos casos que en mayor parte no son aceptados por la sociedad.Entre los problemas que se tratan de resolver están celos, violencia familiar, suicidio, niños de la calle, embarazos no deseados, delincuencia, drogas, pornografía, entre otros.Al final de cada episodio se da un listado para que el televidente pueda pedir ayuda en caso de tener un problema similar al dramatizado por ese capítulo.</desc>
+    <credits>
+      <director>Alberto Cervantes</director>
+      <director>Carlos Guerra</director>
+      <producer>Genoveva Martínez</producer>
+      <producer>María Eva Hernández</producer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png" />
+  </programme>
+  <programme start="20251129210000 -0600" stop="20251129230000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío al límite</title>
+  </programme>
+  <programme start="20251129230000 -0600" stop="20251130000000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Divina Comida</title>
+  </programme>
+  <programme start="20251130000000 -0600" stop="20251130003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130003000 -0600" stop="20251130010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130010000 -0600" stop="20251130013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130013000 -0600" stop="20251130020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130020000 -0600" stop="20251130023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130023000 -0600" stop="20251130030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130030000 -0600" stop="20251130033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130033000 -0600" stop="20251130040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130040000 -0600" stop="20251130043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130043000 -0600" stop="20251130050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251130050000 -0600" stop="20251130060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251130060000 -0600" stop="20251130080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Kermesse</title>
+  </programme>
+  <programme start="20251130080000 -0600" stop="20251130090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos Domingo</title>
+  </programme>
+  <programme start="20251130090000 -0600" stop="20251130110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20251130110000 -0600" stop="20251130130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20251130130000 -0600" stop="20251130150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Domingo al extremo</title>
+  </programme>
+  <programme start="20251130150000 -0600" stop="20251130160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20251130160000 -0600" stop="20251130170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 Mexicanos VIP</title>
+  </programme>
+  <programme start="20251130170000 -0600" stop="20251130180000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 Mexicanos VIP</title>
+  </programme>
+  <programme start="20251130180000 -0600" stop="20251130200000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251130200000 -0600" stop="20251130230000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251130230000 -0600" stop="20251201000000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20251201000000 -0600" stop="20251201003000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251201003000 -0600" stop="20251201010000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201010000 -0600" stop="20251201013000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201013000 -0600" stop="20251201020000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201020000 -0600" stop="20251201023000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201023000 -0600" stop="20251201030000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201030000 -0600" stop="20251201033000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201033000 -0600" stop="20251201040000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201040000 -0600" stop="20251201041500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Barras de ajuste</title>
+  </programme>
+  <programme start="20251201041500 -0600" stop="20251201043000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20251201043000 -0600" stop="20251201050000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Inova</title>
+  </programme>
+  <programme start="20251201050000 -0600" stop="20251201060000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20251201060000 -0600" stop="20251201070000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM Primera línea</title>
+  </programme>
+  <programme start="20251201070000 -0600" stop="20251201080000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20251201080000 -0600" stop="20251201090000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
+  </programme>
+  <programme start="20251201090000 -0600" stop="20251201110000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251201110000 -0600" stop="20251201130000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría</title>
+    <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
+    <date>2006</date>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
+  </programme>
+  <programme start="20251201130000 -0600" stop="20251201140000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Ventaneando con Pati Chapoy</title>
+  </programme>
+  <programme start="20251201140000 -0600" stop="20251201150000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20251201150000 -0600" stop="20251201160000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">100 Mexicanos VIP</title>
+  </programme>
+  <programme start="20251201160000 -0600" stop="20251201170000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Al Extremo</title>
+  </programme>
+  <programme start="20251201170000 -0600" stop="20251201190000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20251201190000 -0600" stop="20251201210000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20251201210000 -0600" stop="20251201223000 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La granja VIP</title>
+  </programme>
+  <programme start="20251201223000 -0600" stop="20251201231500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos noche</title>
+  </programme>
+  <programme start="20251201231500 -0600" stop="20251202001500 -0600" channel="MX | Canal TV Azteca">
+    <title lang="es">La revolución de la libertad</title>
   </programme>
 </tv>
