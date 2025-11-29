@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/11/2025 11:39" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/11/2025 13:03" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES| 1+1 International ᴿᴬᵂ">
     <display-name>ES| 1+1 International ᴿᴬᵂ</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
@@ -1466,16 +1466,13 @@
   </programme>
   <programme start="20251129150000 +0100" stop="20251129154500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+    <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -1563,16 +1560,13 @@
   </programme>
   <programme start="20251129205900 +0100" stop="20251129212500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -1855,16 +1849,13 @@
   </programme>
   <programme start="20251130150000 +0100" stop="20251130154500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | ★6.2/10
+    <desc>Información,Informativo | 2014 | ★6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518438" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -1883,7 +1874,7 @@
   </programme>
   <programme start="20251130155000 +0100" stop="20251130163100 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>En portada: El laboratorio Albanés</title>
-    <desc>Documentales,Actualidad | 2025 | ⑦ | ★6.0/10
+    <desc>Documentales,Actualidad | 2025 | TP | ★6.0/10
 · El espacio de reportajes analiza de la iniciativa del gobierno italiano frente a la inmigración irregular. Giorgia Meloni ha puesto a prueba en Albania su modelo de centros de externalización de asilo y retorno de migrantes.
 · País: España
 · Dirección: José Antonio Guardiola.
@@ -1891,20 +1882,20 @@
     <category>Documentales, Actualidad</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4174250" />
     <rating system="ES">
-      <value>7</value>
+      <value>TP</value>
     </rating>
     <star-rating system="ES">
       <value>6.0/10</value>
     </star-rating>
   </programme>
   <programme start="20251130163100 +0100" stop="20251130164600 +0100" channel="24 Horas FHD ᴿᴬᵂ">
-    <title>Objetivo Igualdad T6 E16</title>
+    <title>Objetivo Igualdad T6 · Documentales temática de mujeres</title>
     <desc>Información,Informativo | 2025 | ⑯ | ★6.0/10
 · Espacio con temática exclusiva en torno a la igualdad presentado por Carolina Pecharromán.
 · País: España
 · Presenta: Carolina Pecharromán.</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4174246" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP4180798" />
     <rating system="ES">
       <value>16</value>
     </rating>
@@ -1912,7 +1903,33 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20251130164600 +0100" stop="20251130170000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
+  <programme start="20251130164600 +0100" stop="20251130165000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
+    <title>Espacio de ajuste</title>
+    <desc>Entretenimiento | 2018 | TP | ★6.0/10
+· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1601181" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251130165000 +0100" stop="20251130165500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
+    <title>Espacio de ajuste</title>
+    <desc>Entretenimiento | 2018 | TP | ★6.0/10
+· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP1601181" />
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20251130165500 +0100" stop="20251130170000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Espacio de ajuste</title>
     <desc>Entretenimiento | 2018 | TP | ★6.0/10
 · Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
@@ -1955,16 +1972,13 @@
   </programme>
   <programme start="20251130210000 +0100" stop="20251130215000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | ★6.2/10
+    <desc>Información,Informativo | 2021 | ★6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
 · Productora: Televisión Española (TVE).</desc>
     <category>Información, Informativo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M24HP518466" />
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
     <star-rating system="ES">
       <value>6.2/10</value>
     </star-rating>
@@ -3927,7 +3941,7 @@
   </programme>
   <programme start="20251129150000 +0100" stop="20251129154500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
+    <desc>Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -3974,7 +3988,7 @@
   </programme>
   <programme start="20251129205900 +0100" stop="20251129212500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
@@ -4132,7 +4146,7 @@
   </programme>
   <programme start="20251130150000 +0100" stop="20251130154500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 1</title>
-    <desc>Información,Informativo | 2014 | TP | *6.2/10
+    <desc>Información,Informativo | 2014 | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -4147,20 +4161,30 @@
   </programme>
   <programme start="20251130155000 +0100" stop="20251130163100 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>En portada: El laboratorio Albanés</title>
-    <desc>Documentales,Actualidad | 2025 | +7 | *6.0/10
+    <desc>Documentales,Actualidad | 2025 | TP | *6.0/10
 · El espacio de reportajes analiza de la iniciativa del gobierno italiano frente a la inmigración irregular. Giorgia Meloni ha puesto a prueba en Albania su modelo de centros de externalización de asilo y retorno de migrantes.
 · País: España
 · Dirección: José Antonio Guardiola.
 · Productora: Televisión Española (TVE).</desc>
   </programme>
   <programme start="20251130163100 +0100" stop="20251130164600 +0100" channel="24 Horas FHD ᴿᴬᵂ">
-    <title>Objetivo Igualdad T6 E16</title>
+    <title>Objetivo Igualdad T6 · Documentales temática de mujeres</title>
     <desc>Información,Informativo | 2025 | +16 | *6.0/10
 · Espacio con temática exclusiva en torno a la igualdad presentado por Carolina Pecharromán.
 · País: España
 · Presenta: Carolina Pecharromán.</desc>
   </programme>
-  <programme start="20251130164600 +0100" stop="20251130170000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
+  <programme start="20251130164600 +0100" stop="20251130165000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
+    <title>Espacio de ajuste</title>
+    <desc>Entretenimiento | 2018 | TP | *6.0/10
+· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
+  </programme>
+  <programme start="20251130165000 +0100" stop="20251130165500 +0100" channel="24 Horas FHD ᴿᴬᵂ">
+    <title>Espacio de ajuste</title>
+    <desc>Entretenimiento | 2018 | TP | *6.0/10
+· Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
+  </programme>
+  <programme start="20251130165500 +0100" stop="20251130170000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Espacio de ajuste</title>
     <desc>Entretenimiento | 2018 | TP | *6.0/10
 · Breve espacio que incluye reportajes y otros programas de contenidos diversos.</desc>
@@ -4182,7 +4206,7 @@
   </programme>
   <programme start="20251130210000 +0100" stop="20251130215000 +0100" channel="24 Horas FHD ᴿᴬᵂ">
     <title>Telediario 2</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Pepa Bueno.
